@@ -1,0 +1,5623 @@
+[
+    {
+        "date": "1/02/24",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "16:57",
+        "departure": "18:45",
+        "locker": "125",
+        "focus": "Chest and Back, Calves, Cardio",
+        "exercises": {
+            "Chest and Back": {
+                "Wide-Grip Lat Pulldowns": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "145lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "145lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Incline Bench Presses": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Bent-Over Rows": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "DB Incline Pec Flys": [],
+                "Close-Grip Bench Presses": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 3,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Seated Cable Rows": [],
+                "DB Straight-Arm Pullovers": [
+                    {
+                        "weight": "50lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "50lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Miscellaneous": {
+                "Hyperextensions": [
+                    {
+                        "weight": "25lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Vertical Bench Leg Raises*": [],
+                "Bodyweight -": [],
+                "Machine Standing Calf Raises": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "150lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.5,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/03/24",
+        "location": "LA Fitness Roswell",
+        "arrival": "17:10",
+        "departure": "18:42",
+        "locker": "121",
+        "focus": "Arms and Shoulders, Forearms, Cardio",
+        "exercises": {
+            "Upper Arms": {
+                "One-Arm Cable Curls": [],
+                "Overhead Cable Triceps Extensions": [
+                    {
+                        "weight": "65lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "65lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Cable Kickbacks (standing) ^^^": [],
+                "DB Concentration Curls": [],
+                "DB One-Arm Triceps Extensions": [],
+                "Standing Barbell Curls": [
+                    {
+                        "weight": "75lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "85lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Lying Barbell Triceps Extensions": [
+                    {
+                        "weight": "75lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "85lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Close-Grips": [
+                    {
+                        "weight": "75lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "85lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Shoulders": {
+                "Seated Barbell Presses (lean back)": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 7,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "Upright Rows": [
+                    {
+                        "weight": "80lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Cable Lateral Raises": [],
+                "Machine Seated Shrugs": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Forearms": {
+                "DB Wrist Curls": []
+            },
+            "Abdominals and Calves": {
+                "Machine Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Warmup)": [
+                    {
+                        "distance": 0.5,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/04/24",
+        "location": "LA Fitness Roswell",
+        "arrival": "15:41",
+        "departure": "17:01",
+        "locker": "45",
+        "focus": "Legs, Abdominals",
+        "exercises": {
+            "Legs": {
+                "Barbell Squats": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "275lbs",
+                        "reps": 1,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "245lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Straight-Leg Deadlifts": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 4,
+                        "sets": 1
+                    }
+                ],
+                "Leg Presses": [
+                    {
+                        "weight": "180lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Leg Extensions (pre-exhaust)": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Seated Leg Curls (lean forward)": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "145lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Hip Adductions": [
+                    {
+                        "weight": "130lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 20,
+                        "sets": 1
+                    }
+                ],
+                "Hip Abductions": [
+                    {
+                        "weight": "130lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Calves": {
+                "Machine Leg Press Calf Raises": [
+                    {
+                        "weight": "235lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "190lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Abdominals": {
+                "Hyperextensions": [
+                    {
+                        "weight": "25lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Twisting Crunches": [],
+                "Vertical Bench Leg Raises": [],
+                "Machine Abdominal Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/06/24",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "16:44",
+        "departure": "18:02",
+        "locker": "3",
+        "focus": "Chest and Back, Calves, Cardio",
+        "exercises": {
+            "Chest and Back": {
+                "Barbell Bench Presses": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 3,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "245lbs",
+                        "reps": 1,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 3,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 1,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 3,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "205lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "165lbs",
+                        "reps": 9,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Machine Unilateral Lat Rows": [],
+                "Machine Pullovers": [
+                    {
+                        "weight": "140lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Machine Isolateral Low Rows": [
+                    {
+                        "weight": "180lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Miscellaneous": {
+                "Leg Press Calf Extensions": [
+                    {
+                        "weight": "180lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "270lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "270lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Hyperextensions": [
+                    {
+                        "weight": "25lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Vertical Bench Leg Raises*": [],
+                "Bodyweight -": [],
+                "Machine Standing Calf Raises": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "150lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.25,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/07/24",
+        "location": "LA Fitness Roswell",
+        "arrival": "17:03",
+        "departure": "18:15",
+        "locker": "115",
+        "focus": "Arms and Shoulders, Forearms, Cardio",
+        "exercises": {
+            "Upper Arms": {
+                "Standing Barbell Curls": [
+                    {
+                        "weight": "75lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "75lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Lying Barbell Triceps Extensions": [
+                    {
+                        "weight": "75lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "75lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Close-Grips": [
+                    {
+                        "weight": "75lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "75lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Two-Arm Cable Curls": [],
+                "Cable Kickbacks (standing)": [],
+                "DB Concentration Curls": [],
+                "DB One-Arm Triceps Extensions": []
+            },
+            "Shoulders": {
+                "Seated Barbell Presses (lean back)": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 3,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 3,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 7,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "DB Lateral Raises": [],
+                "Upright Rows": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Cable Lateral Raises": []
+            },
+            "Forearms": {
+                "DB Wrist Curls": []
+            },
+            "Abdominals and Calves": {
+                "Machine Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Warmup)": [
+                    {
+                        "distance": 0.5,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/09/24",
+        "location": "LA Fitness Roswell",
+        "arrival": "18:38",
+        "departure": "19:38",
+        "locker": "61",
+        "focus": "Legs",
+        "exercises": {
+            "Legs": {
+                "Leg Extensions (pre-exhaust)": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Squats": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "275lbs",
+                        "reps": 1,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "275lbs",
+                        "reps": 1,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "255lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Straight-Leg Deadlifts": [
+                    {
+                        "weight": "185lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Seated Leg Curls (lean forward)": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Hip Abductions": [
+                    {
+                        "weight": "130lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Hip Adductions": [
+                    {
+                        "weight": "115lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Leg Presses *": [
+                    {
+                        "weight": "180lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Calves": {
+                "Machine Leg Press Calf Raises": [
+                    {
+                        "weight": "235lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "190lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Abdominals": {
+                "Hyperextensions": [
+                    {
+                        "weight": "25lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Twisting Crunches": [],
+                "Vertical Bench Leg Raises": [],
+                "Machine Abdominal Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/11/24",
+        "location": "Home Workout",
+        "arrival": "17:29",
+        "departure": "18:09",
+        "locker": "",
+        "focus": "Rowing Machine",
+        "exercises": {}
+    },
+    {
+        "date": "1/12/24",
+        "location": "LA Fitness Roswell",
+        "arrival": "13:25",
+        "departure": "14:50",
+        "locker": "211",
+        "focus": "Chest and Back, Abdominals, Calves",
+        "exercises": {
+            "Chest and Back": {
+                "Barbell Incline Bench Presses": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Bent-Over Rows": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "DB Incline Pec Flys": [],
+                "Wide-Grip Chins (assist)": [],
+                "Parallel Bar Dips": []
+            },
+            "Calves and Abdominals": {
+                "Machine Crunches": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Machine Leg Press Calf Raises": [
+                    {
+                        "weight": "190lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "220lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "190lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Seated Calf Raises": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Vertical Bench Leg Raises": [],
+                "Hanging Leg Raises": [],
+                "Treadmill (Cooldown)": []
+            }
+        }
+    },
+    {
+        "date": "1/13/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "16:14",
+        "departure": "17:42",
+        "locker": "5",
+        "focus": "Arms and Shoulders, Abdominals",
+        "exercises": {
+            "Upper Arms": {
+                "Seated DB Curls": [],
+                "Lying DB Skullcrushers": [],
+                "One-Arm Cable Curls": [],
+                "Cable Triceps Pressdowns": [],
+                "Parallel Bar Dips": [],
+                "DB Concentration Curls": [],
+                "DB One-Arm Triceps Extensions": []
+            },
+            "Shoulders": {
+                "Seated Barbell Presses (lean back)": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB Lateral Raises": [],
+                "DB Shrugs": [],
+                "Cable Lateral Raises": []
+            },
+            "Forearms": {
+                "DB Wrist Curls": []
+            },
+            "Abdominals and Calves": {
+                "Machine Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Warmup)": [
+                    {
+                        "distance": 0.5,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/14/25",
+        "location": "LA Fitness Roswell",
+        "arrival": "15:45",
+        "departure": "17:05",
+        "locker": "97",
+        "focus": "Legs, Calves",
+        "exercises": {
+            "Legs": {
+                "Barbell Squats": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "265lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "265lbs",
+                        "reps": 1,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Lunges": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 4,
+                        "sets": 1
+                    }
+                ],
+                "Leg Extensions (pre-exhaust)": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Seated Leg Curls (lean forward)": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Hip Abductions": [
+                    {
+                        "weight": "130lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Hip Adductions": [
+                    {
+                        "weight": "115lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "85lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Leg Presses *": [
+                    {
+                        "weight": "180lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Calves": {
+                "Machine Leg Press Calf Raises": [
+                    {
+                        "weight": "235lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "190lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Abdominals": {
+                "Hyperextensions": [
+                    {
+                        "weight": "25lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Twisting Crunches": [],
+                "Vertical Bench Leg Raises": [],
+                "Machine Abdominal Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/15/24",
+        "location": "LA Fitness Roswell",
+        "arrival": "16:43",
+        "departure": "17:50",
+        "locker": "127",
+        "focus": "Miscellaneous: Short Chest, Abdominals, Calves, Cardio",
+        "exercises": {
+            "Chest and Back": {
+                "Barbell Bench Presses": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 3,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "245lbs",
+                        "reps": 1,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "245lbs",
+                        "reps": 1,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 3,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Calves and Abdominals": {
+                "Smith Machine Standing Calf Raises": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "230lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Crunches": [],
+                "Bodyweight -": [],
+                "Reverse Crunches": [],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.9,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/16/24",
+        "location": "LA Fitness Roswell",
+        "arrival": "17:22",
+        "departure": "18:19",
+        "locker": "83",
+        "focus": "Short Chest and Back, Cardio",
+        "exercises": {
+            "Chest and Back": {
+                "Barbell Incline Bench Presses": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Wide-Grip Lat Pulldowns": [
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Machine Pec Flys": [
+                    {
+                        "weight": "130lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Seated Cable Rows (separate grips)": [
+                    {
+                        "weight": "132lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "152lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "112lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "92lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Machine Pullovers": [
+                    {
+                        "weight": "140lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Bent-Over Rows": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "DB Incline Pec Flys": [],
+                "Wide-Grip Chins (assist)": [],
+                "Parallel Bar Dips": []
+            },
+            "Calves and Abdominals": {
+                "Machine Crunches": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Machine Leg Press Calf Raises": [
+                    {
+                        "weight": "190lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "220lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "190lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Seated Calf Raises": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Vertical Bench Leg Raises": [],
+                "Hanging Leg Raises": [],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.5,
+                        "unit": "miles",
+                        "pace": "7:30"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/17/25",
+        "location": "CCR Gym",
+        "arrival": "15:57",
+        "departure": "16:11",
+        "locker": "",
+        "focus": "Brief Cardio",
+        "exercises": {}
+    },
+    {
+        "date": "1/19/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "16:00",
+        "departure": "",
+        "locker": "231",
+        "focus": "Arms and Shoulders, Abdominals",
+        "exercises": {
+            "Upper Arms": {
+                "DB Concentration Curls": [],
+                "DB One-Arm Triceps Extensions": [],
+                "One-Arm Cable Curls": [],
+                "Cable Triceps Pressdowns": [
+                    {
+                        "weight": "65lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "65lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "DB Preacher Curls": []
+            },
+            "Shoulders": {
+                "Seated Barbell Presses (lean back)": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Cable Lateral Raises": [],
+                "DB Lateral Raises": [],
+                "DB Shrugs": []
+            },
+            "Forearms": {
+                "DB Wrist Curls": []
+            },
+            "Abdominals and Calves": {
+                "Machine Leg Press Calf Raises": [
+                    {
+                        "weight": "205lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "145lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Machine Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 16,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Warmup)": [
+                    {
+                        "distance": 0.33,
+                        "unit": "miles",
+                        "pace": "7:30"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/20/25",
+        "location": "LA Fitness Roswell",
+        "arrival": "11:15",
+        "departure": "12:31",
+        "locker": "211",
+        "focus": "Legs, Abdominals",
+        "exercises": {
+            "Legs": {
+                "Leg Extensions (warmups)": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Seated Leg Curls (lean forward)": [
+                    {
+                        "weight": "85lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "85lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Leg Presses": [
+                    {
+                        "weight": "180lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "270lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "320lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "370lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Hip Adductions": [
+                    {
+                        "weight": "115lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "145lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 20,
+                        "sets": 1
+                    }
+                ],
+                "Hip Abductions": [
+                    {
+                        "weight": "145lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Calves": {
+                "Seated Calf Raises": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Abdominals": {
+                "Hyperextensions": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "45lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "45lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Machine Abdominal Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/22/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "16:55",
+        "departure": "17:59",
+        "locker": "139",
+        "focus": "Chest and Back, Abs, Cardio",
+        "exercises": {
+            "Chest and Back": {
+                "Barbell Bench Presses": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "205lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 3,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "205lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Machine Unilateral Lat Rows": [],
+                "Machine Pec Flys": [
+                    {
+                        "weight": "130lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Machine T-Bar Rows": [
+                    {
+                        "weight": "180lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "205lbs",
+                        "reps": 4,
+                        "sets": 1
+                    }
+                ],
+                "Seated Cable Rows": [
+                    {
+                        "weight": "152lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "152lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "112lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Machine Pullovers": [
+                    {
+                        "weight": "140lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Machine Isolateral Low Rows": [
+                    {
+                        "weight": "180lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Miscellaneous": {
+                "Machine Abdominal Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.5,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/23/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "06:32",
+        "departure": "07:18",
+        "locker": "51",
+        "focus": "Short Arms and Shoulders, Cardio",
+        "exercises": {
+            "Upper Arms": {
+                "DB Seated Curls": [],
+                "DB Lying Skullcrushers": [],
+                "One-Arm Cable Curls": [],
+                "Cable Triceps Pressdowns": [
+                    {
+                        "weight": "65lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "65lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "DB Preacher Curls": [],
+                "DB Concentration Curls": [],
+                "DB One-Arm Triceps Extensions": []
+            },
+            "Shoulders": {
+                "Seated Barbell Presses (lean back)": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 5,
+                        "sets": 1
+                    }
+                ],
+                "Cable Lateral Raises": [],
+                "DB Lateral Raises": [],
+                "DB Shrugs": []
+            },
+            "Forearms": {
+                "DB Wrist Curls": []
+            },
+            "Abdominals and Calves": {
+                "Machine Leg Press Calf Raises": [
+                    {
+                        "weight": "205lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "145lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Machine Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 16,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.56,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/25/25",
+        "location": "West Palm Beach Gym",
+        "arrival": "11:50",
+        "departure": "",
+        "locker": "N/A",
+        "focus": "Miscellaneous",
+        "exercises": {}
+    },
+    {
+        "date": "1/27/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "16:52",
+        "departure": "18:18",
+        "locker": "113",
+        "focus": "Recovery Arms and Shoulders, Cardio",
+        "exercises": {
+            "Upper Arms": {
+                "DB Seated Curls": [],
+                "DB Lying Skullcrushers": [],
+                "DB Hammer Curls": [],
+                "DB One-Arm Triceps Extensions": [],
+                "DB Preacher Curls": [],
+                "Cable Triceps Pressdowns": []
+            },
+            "Shoulders": {
+                "DB Arnold Presses": [],
+                "DB Front Presses": [],
+                "DB Lateral Raises": [],
+                "Barbell Incline Bench Presses": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "Seated Barbell Presses (lean back)": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 5,
+                        "sets": 1
+                    }
+                ],
+                "Cable Lateral Raises": []
+            },
+            "Forearms": {
+                "DB Wrist Curls": []
+            },
+            "Abdominals and Calves": {
+                "Machine Crunches": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 25,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.6,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/28/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "16:24",
+        "departure": "17:42",
+        "locker": "31",
+        "focus": "Recovery Legs, Abdominals",
+        "exercises": {
+            "Legs": {
+                "Leg Extensions (warmups)": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Straight-Leg Deadlifts": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Squats": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "Seated Leg Curls (lean forward)": [
+                    {
+                        "weight": "50lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Hip Abductions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Hip Adductions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Calves": {
+                "Machine Standing Calf Raises": []
+            },
+            "Abdominals": {
+                "Hyperextensions": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Machine Abdominal Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/29/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "15:48",
+        "departure": "17:09",
+        "locker": "3",
+        "focus": "Chest and Back, Abs",
+        "exercises": {
+            "Chest and Back": {
+                "Barbell Bench Presses": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 1,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "205lbs",
+                        "reps": 7,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "205lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 7,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Bent-Over Rows": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "DB Incline Pec Flys": [],
+                "Medium-Grip Lat Pulldowns": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Machine Pullovers": [
+                    {
+                        "weight": "110lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Miscellaneous": {
+                "Vertical Bench Leg Raises": [],
+                "Machine Abdominal Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.5,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/30/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "16:29",
+        "departure": "17:45",
+        "locker": "47",
+        "focus": "https://youtube.com/shorts/YLQLudsCx0o?si=GPWWlCMOA9Dw9XTX",
+        "exercises": {
+            "Upper Arms": {
+                "Standing Barbell Curls": [
+                    {
+                        "weight": "60lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 7,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "60lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "50lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Close-Grip Bench Presses": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 9,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Cable Triceps Pressdowns": [
+                    {
+                        "weight": "65lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "50lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Shoulders": {
+                "Cable Lateral Raises": []
+            },
+            "Forearms": {
+                "DB Wrist Curls": [],
+                "Barbell Reverse Wrist Curls": [
+                    {
+                        "weight": "50lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "50lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Abdominals and Calves": {
+                "Seated Leg Tucks": [],
+                "Bodyweight -": [],
+                "Machine Leg Press Calf Raises": [
+                    {
+                        "weight": "180lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "150lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "150lbs",
+                        "reps": 20,
+                        "sets": 1
+                    }
+                ],
+                "Machine Crunches": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 25,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.6,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "1/31/25",
+        "location": "LA Fitness Roswell",
+        "arrival": "16:57",
+        "departure": "18:02",
+        "locker": "25",
+        "focus": "Legs and Calves",
+        "exercises": {
+            "Legs": {
+                "Seated Leg Curls (lean forward)": [
+                    {
+                        "weight": "70lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "85lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "55lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Linear Hack Squats": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "270lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "270lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Lunges": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "Leg Extensions (pre-exhaust)": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Hip Abductions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Hip Adductions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Calves": {
+                "Seated Calf Raises": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Abdominals": {
+                "Hyperextensions": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Machine Abdominal Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/01/25",
+        "location": "LA Fitness Roswell",
+        "arrival": "12:43",
+        "departure": "14:20",
+        "locker": "N/A",
+        "focus": "Chest and Back, Calves, Abdominals, Cardio",
+        "exercises": {
+            "Chest and Back": {
+                "Incline Barbell Bench Presses": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Wide-Grip Chins": [],
+                "Parallel Bar Dips (weighted)": [],
+                "Seated Cable Rows": [
+                    {
+                        "weight": "65lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "DB Straight-Arm Pullovers": [
+                    {
+                        "weight": "55lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "55lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "55lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "55lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Cable Crossovers": []
+            },
+            "Calves and Abdominals": {
+                "Machine Leg Press Calf Raises": [
+                    {
+                        "weight": "145lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Twisting Crunches": [],
+                "Ab Rollouts ^": [],
+                "Machine Crunches": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 20,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.5,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/02/25",
+        "location": "Home Workout",
+        "arrival": "",
+        "departure": "",
+        "locker": "",
+        "focus": "Rowing Machine",
+        "exercises": {}
+    },
+    {
+        "date": "2/03/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "16:30",
+        "departure": "17:35",
+        "locker": "11",
+        "focus": "Short Arms and Shoulders, Cardio",
+        "exercises": {
+            "Upper Arms": {
+                "Cable Standing Kickbacks": [],
+                "Standing DB Curls": [],
+                "Machine Preacher Curls": [
+                    {
+                        "weight": "80lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "Parallel Bar Dips": []
+            },
+            "Shoulders": {
+                "Seated Barbell Presses": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 3,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 3,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 7,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB Lateral Raises": []
+            },
+            "Forearms": {
+                "DB Wrist Curls": [],
+                "Barbell Reverse Wrist Curls": [
+                    {
+                        "weight": "50lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "50lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Abdominals and Calves": {
+                "Seated Leg Tucks": [],
+                "Bodyweight -": [],
+                "Machine Leg Press Calf Raises": [
+                    {
+                        "weight": "180lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "150lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "150lbs",
+                        "reps": 20,
+                        "sets": 1
+                    }
+                ],
+                "Machine Crunches": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 25,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.75,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/04/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "16:33",
+        "departure": "17:40",
+        "locker": "53",
+        "focus": "Legs",
+        "exercises": {
+            "Legs": {
+                "Seated Leg Curls (lean forward)": [
+                    {
+                        "weight": "70lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Squats": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "265lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "265lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "245lbs",
+                        "reps": 3,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 4,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Straight-Leg Deadlifts": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "Leg Presses": [
+                    {
+                        "weight": "180lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Leg Extensions (pre-exhaust)": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Hip Abductions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Hip Adductions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Calves": {
+                "Seated Calf Raises": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Abdominals": {
+                "Hyperextensions": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Machine Abdominal Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/05/25",
+        "location": "LA Fitness Roswell",
+        "arrival": "16:58",
+        "departure": "17:46",
+        "locker": "223",
+        "focus": "Short Chest and Back, Calves, Cardio",
+        "exercises": {
+            "Chest and Back": {
+                "Barbell Incline Bench Presses": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 3,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Wide-Grip Lat Pulldowns": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "145lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Machine Pec Flys": []
+            },
+            "Miscellaneous": {
+                "Machine Leg Press Calf Raises": [
+                    {
+                        "weight": "145lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "145lbs",
+                        "reps": 20,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.75,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/07/25",
+        "location": "LA Fitness Roswell",
+        "arrival": "17:05",
+        "departure": "18:31",
+        "locker": "223",
+        "focus": "Arms and Shoulders, Abdominals, Cardio",
+        "exercises": {
+            "Upper Arms": {
+                "Standing Barbell Curls": [
+                    {
+                        "weight": "60lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Lying Barbell Triceps Extensions": [
+                    {
+                        "weight": "60lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Close-Grip Presses": [
+                    {
+                        "weight": "60lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "One-Arm Cable Curls": [],
+                "Cable Triceps Pressdowns": [],
+                "DB Concentration Curls": [],
+                "DB One-Arm Triceps Extensions": []
+            },
+            "Shoulders": {
+                "Barbell Seated Presses (lean forward)": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 7,
+                        "sets": 1
+                    }
+                ],
+                "DB Lateral Raises": [],
+                "Cable Lateral Raises": []
+            },
+            "Forearms": {
+                "DB Wrist Curls": []
+            },
+            "Abdominals": {
+                "Machine Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.35,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/08/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "10:46",
+        "departure": "11:33",
+        "locker": "89",
+        "focus": "Short Legs",
+        "exercises": {
+            "Legs": {
+                "Seated Leg Curls": [
+                    {
+                        "weight": "70lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "150lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Leg Extensions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "145lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Hip Abductions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 16,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Hip Adductions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Calves": {
+                "Machine Leg Press Calf Raises": [
+                    {
+                        "weight": "195lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "165lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/10/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "16:23",
+        "departure": "17:37",
+        "locker": "35",
+        "focus": "Chest and Back, Calves, Abdominals, Cardio",
+        "exercises": {
+            "Chest and Back": {
+                "Barbell Bench Presses": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "205lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 3,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "205lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Machine One-Arm Rows": [],
+                "Machine Pec Flys": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "145lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Wide-Grip Lat Pulldowns": [
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "85lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Machine Pullovers": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Seated Cable Rows": [
+                    {
+                        "weight": "65lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "DB Straight-Arm Pullovers": [
+                    {
+                        "weight": "55lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "55lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "55lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "55lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Calves and Abdominals": {
+                "Seated Calf Raises": [
+                    {
+                        "weight": "70lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.6,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/11/25",
+        "location": "LA Fitness Roswell",
+        "arrival": "15:54",
+        "departure": "17:17",
+        "locker": "115",
+        "focus": "Arms and Shoulders, Abdominals",
+        "exercises": {
+            "Upper Arms": {
+                "Lying DB Curls": [],
+                "Lying DB Skullcrushers": [],
+                "DB Preacher Curls": [],
+                "Standing Cable Kickbacks": [],
+                "One-Arm Cable Rows": [],
+                "DB Concentration Curls": [],
+                "DB One-Arm Triceps Extensions": []
+            },
+            "Shoulders": {
+                "Barbell Seated Presses (lean forward)": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB Lateral Raises": [],
+                "Upright Rows": [
+                    {
+                        "weight": "70lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Cable Lateral Raises": []
+            },
+            "Forearms": {
+                "Barbell Wrist Curls": [
+                    {
+                        "weight": "60lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "60lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Reverse Wrist Curls": [
+                    {
+                        "weight": "60lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "60lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Abdominals": {
+                "Machine Crunches": [
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 20,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.35,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/12/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "15:05",
+        "departure": "16:10",
+        "locker": "37",
+        "focus": "Short Legs and Abdominals",
+        "exercises": {
+            "Legs": {
+                "Leg Extensions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Squats": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Seated Leg Curls": [
+                    {
+                        "weight": "70lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Hip Adductions": [
+                    {
+                        "weight": "85lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "85lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Hip Abductions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Abdominals": {
+                "Machine Crunches": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/13/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "15:44",
+        "departure": "16:52",
+        "locker": "35",
+        "focus": "Chest and Back, Calves, Abdominals, Cardio",
+        "exercises": {
+            "Chest and Back": {
+                "Incline Barbell Bench Presses": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 1,
+                        "sets": 1
+                    }
+                ],
+                "DB Incline Presses": [],
+                "Barbell Bent-Over Rows": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB Incline Flys": [],
+                "Wide-Grip Lat Pulldowns": [
+                    {
+                        "weight": "70lbs",
+                        "reps": 25,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Machine Pullovers": [
+                    {
+                        "weight": "110lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Seated Cable Rows": [
+                    {
+                        "weight": "65lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "DB Straight-Arm Pullovers": [
+                    {
+                        "weight": "55lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "55lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "55lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "55lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Calves and Abdominals": {
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.5,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/14/25",
+        "location": "Home Workout",
+        "arrival": "08:35",
+        "departure": "",
+        "locker": "",
+        "focus": "Miscellaneous",
+        "exercises": {}
+    },
+    {
+        "date": "2/18/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "16:31",
+        "departure": "17:47",
+        "locker": "123",
+        "focus": "Chest and Back, Abdominals, Cardio",
+        "exercises": {
+            "Chest and Back": {
+                "Barbell Bench Presses": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "205lbs",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "205lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "165lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Bent-Over Rows": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "175lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "DB Incline Flys": [],
+                "Parallel Bar Dips": [],
+                "Machine Pullovers": [
+                    {
+                        "weight": "140lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Seated Cable Rows": [
+                    {
+                        "weight": "65lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "DB Straight-Arm Pullovers": [
+                    {
+                        "weight": "55lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "55lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "55lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "55lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Calves and Abdominals": {
+                "Machine Crunches": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.5,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/19/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "17:04",
+        "departure": "18:12",
+        "locker": "83",
+        "focus": "Arms and Shoulders, Calves",
+        "exercises": {
+            "Upper Arms": {
+                "Seated DB Curls": [],
+                "Lying DB Triceps Extensions": [],
+                "DB Concentration Curls": [],
+                "DB One-Arm Triceps Extensions": []
+            },
+            "Shoulders": {
+                "DB Arnold Presses": [],
+                "DB Lateral Raises": []
+            },
+            "Calves": {
+                "Machine Leg Press Calf Raises": [
+                    {
+                        "weight": "150lbs",
+                        "reps": 25,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 20,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.6,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/20/25",
+        "location": "CCR Gym",
+        "arrival": "14:34",
+        "departure": "15:02",
+        "locker": "",
+        "focus": "Short Legs",
+        "exercises": {
+            "Legs": {
+                "Machine Leg Presses": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "205lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "205lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Machine Seated Leg Curls": [
+                    {
+                        "weight": "80lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Machine Leg Extensions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 16,
+                        "sets": 1
+                    }
+                ],
+                "Hip Abductions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Hip Adductions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/21/25",
+        "location": "LA Fitness Roswell",
+        "arrival": "17:40",
+        "departure": "18:24",
+        "locker": "N/A",
+        "focus": "Legs (no headphones)",
+        "exercises": {
+            "Legs": {
+                "Leg Extensions": [
+                    {
+                        "weight": "55lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "85lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "115lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Seated Leg Curls": [
+                    {
+                        "weight": "55lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "85lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "85lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Squats": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "265lbs",
+                        "reps": 1,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "245lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 5,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Straight-Leg Deadlifts": []
+            }
+        }
+    },
+    {
+        "date": "2/22/25",
+        "location": "LA Fitness Roswell",
+        "arrival": "12:07",
+        "departure": "13:20",
+        "locker": "65",
+        "focus": "Chest and Back, Calves",
+        "exercises": {
+            "Chest and Back": {
+                "Barbell Bench Presses": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 3,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 1,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "205lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "165lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Seated Cable Rows": [],
+                "DB Straight-Arm Pullovers": [
+                    {
+                        "weight": "55lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "55lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "55lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB Incline Pec Flys": [],
+                "Barbell Bent-Over Rows": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "185lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "155lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Calves": {
+                "Seated Calf Raises": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill": [
+                    {
+                        "distance": 0.42,
+                        "unit": "miles",
+                        "pace": "6:58"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/23/25",
+        "location": "LA Fitness Roswell",
+        "arrival": "11:39",
+        "departure": "13:15",
+        "locker": "65",
+        "focus": "Arms and Shoulders, Forearms, Cardio",
+        "exercises": {
+            "Upper Arms": {
+                "Standing Barbell Curls": [
+                    {
+                        "weight": "60lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "Lying Barbell Triceps Extensions": [
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Close-Grip Presses": [
+                    {
+                        "weight": "70lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "One-Arm Cable Curls": [],
+                "Cable Triceps Pressdowns": [
+                    {
+                        "weight": "65lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Cable Kickbacks": [],
+                "DB Preacher Curls": []
+            },
+            "Shoulders": {
+                "Barbell Front Presses": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "95lbs",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "DB Lateral Raises": [],
+                "Cable Lateral Raises": []
+            },
+            "Forearms": {
+                "Barbell Wrist Curls": [
+                    {
+                        "weight": "60lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "60lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "60lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Reverse Wrist Curls": [
+                    {
+                        "weight": "60lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "60lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "60lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Abdominals": {
+                "Machine Crunches": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "140lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Treadmill (Cooldown)": [
+                    {
+                        "distance": 0.6,
+                        "unit": "miles",
+                        "pace": "7:30"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/24/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "16:37",
+        "departure": "17:21",
+        "locker": "81",
+        "focus": "Short Legs and Calves",
+        "exercises": {
+            "Legs": {
+                "Seated Leg Curls": [
+                    {
+                        "weight": "90lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Leg Extensions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Calves": {
+                "Machine Leg Press Calf Raises": [
+                    {
+                        "weight": "150lbs",
+                        "reps": 25,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "210lbs",
+                        "reps": 20,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "210lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "180lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "150lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "date": "2/25/25",
+        "location": "LA Fitness Alpharetta",
+        "arrival": "16:09",
+        "departure": "17:30",
+        "locker": "37",
+        "focus": "Legs, Abdominals",
+        "exercises": {
+            "Legs": {
+                "Barbell Squats": [
+                    {
+                        "weight": "45lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "275lbs",
+                        "reps": 1,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "275lbs",
+                        "reps": 1,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "275lbs",
+                        "reps": 1,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "275lbs",
+                        "reps": 1,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "245lbs",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "245lbs",
+                        "reps": 2,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "225lbs",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "Barbell Lunges": [
+                    {
+                        "weight": "135lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "Seated Leg Curls": [
+                    {
+                        "weight": "70lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "110lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
+                "Hip Adductions": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Leg Extensions *": [
+                    {
+                        "weight": "55lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "160lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "130lbs",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
+            },
+            "Abdominals": {
+                "Machine Crunches": [
+                    {
+                        "weight": "100lbs",
+                        "reps": 25,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "100lbs",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ]
+            }
+        }
+    }
+]
