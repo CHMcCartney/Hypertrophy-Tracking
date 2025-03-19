@@ -89,7 +89,28 @@
                         "sets": 1
                     }
                 ],
-                "DB Incline Pec Flys": [],
+                "DB Incline Pec Flys": [
+                    {
+                        "weight": "40lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "40lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "40lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "35lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
                 "Close-Grip Bench Presses": [
                     {
                         "weight": "135lbs",
@@ -112,7 +133,14 @@
                         "sets": 1
                     }
                 ],
-                "Seated Cable Rows": [],
+                "Superset:": [],
+                "Seated Cable Rows": [
+                    {
+                        "weight": "65lbs per",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
                 "DB Straight-Arm Pullovers": [
                     {
                         "weight": "50lbs",
@@ -168,13 +196,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.5,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -187,7 +209,28 @@
         "focus": "Arms and Shoulders, Forearms, Cardio",
         "exercises": {
             "Upper Arms": {
-                "One-Arm Cable Curls": [],
+                "One-Arm Cable Curls": [
+                    {
+                        "weight": "20lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "20lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "15lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
                 "Overhead Cable Triceps Extensions": [
                     {
                         "weight": "65lbs",
@@ -200,9 +243,49 @@
                         "sets": 1
                     }
                 ],
-                "Cable Kickbacks (standing) ^^^": [],
-                "DB Concentration Curls": [],
-                "DB One-Arm Triceps Extensions": [],
+                "Cable Kickbacks (standing) ^^^": [
+                    {
+                        "weight": "15lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "5lbs per",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
+                "Superset:": [],
+                "DB Concentration Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB One-Arm Triceps Extensions": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Triset:": [],
                 "Standing Barbell Curls": [
                     {
                         "weight": "75lbs",
@@ -325,7 +408,28 @@
                         "sets": 1
                     }
                 ],
-                "Cable Lateral Raises": [],
+                "Cable Lateral Raises": [
+                    {
+                        "weight": "15lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
                 "Machine Seated Shrugs": [
                     {
                         "weight": "90lbs",
@@ -350,7 +454,24 @@
                 ]
             },
             "Forearms": {
-                "DB Wrist Curls": []
+                "Superset:": [],
+                "DB Wrist Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
             },
             "Abdominals and Calves": {
                 "Machine Crunches": [
@@ -375,13 +496,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Warmup)": [
-                    {
-                        "distance": 0.5,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Warmup)": []
             }
         }
     },
@@ -659,7 +774,28 @@
                         "sets": 1
                     }
                 ],
-                "Machine Unilateral Lat Rows": [],
+                "Machine Unilateral Lat Rows": [
+                    {
+                        "weight": "120lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "150lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "90lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
                 "Machine Pullovers": [
                     {
                         "weight": "140lbs",
@@ -764,13 +900,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.25,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -783,6 +913,7 @@
         "focus": "Arms and Shoulders, Forearms, Cardio",
         "exercises": {
             "Upper Arms": {
+                "Triset:": [],
                 "Standing Barbell Curls": [
                     {
                         "weight": "75lbs",
@@ -836,8 +967,31 @@
                 ],
                 "Two-Arm Cable Curls": [],
                 "Cable Kickbacks (standing)": [],
-                "DB Concentration Curls": [],
-                "DB One-Arm Triceps Extensions": []
+                "Superset:": [],
+                "DB Concentration Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB One-Arm Triceps Extensions": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
             },
             "Shoulders": {
                 "Seated Barbell Presses (lean back)": [
@@ -872,7 +1026,28 @@
                         "sets": 1
                     }
                 ],
-                "DB Lateral Raises": [],
+                "DB Lateral Raises": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
                 "Upright Rows": [
                     {
                         "weight": "90lbs",
@@ -883,7 +1058,24 @@
                 "Cable Lateral Raises": []
             },
             "Forearms": {
-                "DB Wrist Curls": []
+                "Superset:": [],
+                "DB Wrist Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
             },
             "Abdominals and Calves": {
                 "Machine Crunches": [
@@ -908,13 +1100,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Warmup)": [
-                    {
-                        "distance": 0.5,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Warmup)": []
             }
         }
     },
@@ -1193,7 +1379,29 @@
                         "sets": 1
                     }
                 ],
-                "DB Incline Pec Flys": [],
+                "DB Incline Pec Flys": [
+                    {
+                        "weight": "45lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "45lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "45lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "45lbs per",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "Superset:": [],
                 "Wide-Grip Chins (assist)": [],
                 "Parallel Bar Dips": []
             },
@@ -1274,13 +1482,79 @@
         "focus": "Arms and Shoulders, Abdominals",
         "exercises": {
             "Upper Arms": {
-                "Seated DB Curls": [],
-                "Lying DB Skullcrushers": [],
+                "Superset:": [],
+                "Seated DB Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Lying DB Skullcrushers": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 9,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
                 "One-Arm Cable Curls": [],
                 "Cable Triceps Pressdowns": [],
                 "Parallel Bar Dips": [],
-                "DB Concentration Curls": [],
-                "DB One-Arm Triceps Extensions": []
+                "Superset: *": [],
+                "DB Concentration Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB One-Arm Triceps Extensions": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
             },
             "Shoulders": {
                 "Seated Barbell Presses (lean back)": [
@@ -1296,11 +1570,64 @@
                     }
                 ],
                 "DB Lateral Raises": [],
-                "DB Shrugs": [],
-                "Cable Lateral Raises": []
+                "DB Shrugs": [
+                    {
+                        "weight": "70lbs per",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "85lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Cable Lateral Raises": [
+                    {
+                        "weight": "15lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
             },
             "Forearms": {
-                "DB Wrist Curls": []
+                "DB Wrist Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
             },
             "Abdominals and Calves": {
                 "Machine Crunches": [
@@ -1325,13 +1652,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Warmup)": [
-                    {
-                        "distance": 0.5,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Warmup)": []
             }
         }
     },
@@ -1621,13 +1942,7 @@
                 "Crunches": [],
                 "Bodyweight -": [],
                 "Reverse Crunches": [],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.9,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -1772,7 +2087,29 @@
                         "sets": 1
                     }
                 ],
-                "DB Incline Pec Flys": [],
+                "DB Incline Pec Flys": [
+                    {
+                        "weight": "45lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "45lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "45lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "45lbs per",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "Superset:": [],
                 "Wide-Grip Chins (assist)": [],
                 "Parallel Bar Dips": []
             },
@@ -1840,13 +2177,7 @@
                 ],
                 "Vertical Bench Leg Raises": [],
                 "Hanging Leg Raises": [],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.5,
-                        "unit": "miles",
-                        "pace": "7:30"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -1868,9 +2199,68 @@
         "focus": "Arms and Shoulders, Abdominals",
         "exercises": {
             "Upper Arms": {
-                "DB Concentration Curls": [],
-                "DB One-Arm Triceps Extensions": [],
-                "One-Arm Cable Curls": [],
+                "Superset:": [],
+                "DB Concentration Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB One-Arm Triceps Extensions": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "One-Arm Cable Curls": [
+                    {
+                        "weight": "20lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "20lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
                 "Cable Triceps Pressdowns": [
                     {
                         "weight": "65lbs",
@@ -1883,7 +2273,18 @@
                         "sets": 1
                     }
                 ],
-                "DB Preacher Curls": []
+                "DB Preacher Curls": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ]
             },
             "Shoulders": {
                 "Seated Barbell Presses (lean back)": [
@@ -1913,12 +2314,70 @@
                         "sets": 1
                     }
                 ],
-                "Cable Lateral Raises": [],
+                "Cable Lateral Raises": [
+                    {
+                        "weight": "15lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "5lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
                 "DB Lateral Raises": [],
-                "DB Shrugs": []
+                "DB Shrugs": [
+                    {
+                        "weight": "70lbs per",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "85lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
             },
             "Forearms": {
-                "DB Wrist Curls": []
+                "DB Wrist Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
             },
             "Abdominals and Calves": {
                 "Machine Leg Press Calf Raises": [
@@ -1955,13 +2414,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Warmup)": [
-                    {
-                        "distance": 0.33,
-                        "unit": "miles",
-                        "pace": "7:30"
-                    }
-                ]
+                "Treadmill (Warmup)": []
             }
         }
     },
@@ -2223,7 +2676,28 @@
                         "sets": 1
                     }
                 ],
-                "Machine Unilateral Lat Rows": [],
+                "Machine Unilateral Lat Rows": [
+                    {
+                        "weight": "120lbs per",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "165lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "150lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "120lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
                 "Machine Pec Flys": [
                     {
                         "weight": "130lbs",
@@ -2333,13 +2807,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.5,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -2352,9 +2820,53 @@
         "focus": "Short Arms and Shoulders, Cardio",
         "exercises": {
             "Upper Arms": {
-                "DB Seated Curls": [],
-                "DB Lying Skullcrushers": [],
-                "One-Arm Cable Curls": [],
+                "Superset:": [],
+                "DB Seated Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB Lying Skullcrushers": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "One-Arm Cable Curls": [
+                    {
+                        "weight": "20lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
                 "Cable Triceps Pressdowns": [
                     {
                         "weight": "65lbs",
@@ -2367,9 +2879,67 @@
                         "sets": 1
                     }
                 ],
-                "DB Preacher Curls": [],
-                "DB Concentration Curls": [],
-                "DB One-Arm Triceps Extensions": []
+                "DB Preacher Curls": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "20lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "DB Concentration Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB One-Arm Triceps Extensions": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
             },
             "Shoulders": {
                 "Seated Barbell Presses (lean back)": [
@@ -2394,12 +2964,70 @@
                         "sets": 1
                     }
                 ],
-                "Cable Lateral Raises": [],
+                "Cable Lateral Raises": [
+                    {
+                        "weight": "15lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "5lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
                 "DB Lateral Raises": [],
-                "DB Shrugs": []
+                "DB Shrugs": [
+                    {
+                        "weight": "70lbs per",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "85lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
             },
             "Forearms": {
-                "DB Wrist Curls": []
+                "DB Wrist Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
             },
             "Abdominals and Calves": {
                 "Machine Leg Press Calf Raises": [
@@ -2436,13 +3064,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.56,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -2464,17 +3086,130 @@
         "focus": "Recovery Arms and Shoulders, Cardio",
         "exercises": {
             "Upper Arms": {
+                "Superset:": [],
                 "DB Seated Curls": [],
                 "DB Lying Skullcrushers": [],
-                "DB Hammer Curls": [],
-                "DB One-Arm Triceps Extensions": [],
-                "DB Preacher Curls": [],
+                "DB Hammer Curls": [
+                    {
+                        "weight": "45lbs per",
+                        "reps": 4,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "35lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "35lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "35lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "35lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB One-Arm Triceps Extensions": [
+                    {
+                        "weight": "35lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "35lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "35lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "35lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB Preacher Curls": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "20lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "20lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
                 "Cable Triceps Pressdowns": []
             },
             "Shoulders": {
-                "DB Arnold Presses": [],
-                "DB Front Presses": [],
-                "DB Lateral Raises": [],
+                "Superset:": [],
+                "DB Arnold Presses": [
+                    {
+                        "weight": "45lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "45lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "45lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB Front Presses": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "DB Lateral Raises": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
                 "Barbell Incline Bench Presses": [
                     {
                         "weight": "135lbs",
@@ -2509,10 +3244,47 @@
                         "sets": 1
                     }
                 ],
-                "Cable Lateral Raises": []
+                "Cable Lateral Raises": [
+                    {
+                        "weight": "15lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "5lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ]
             },
             "Forearms": {
-                "DB Wrist Curls": []
+                "DB Wrist Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
             },
             "Abdominals and Calves": {
                 "Machine Crunches": [
@@ -2537,13 +3309,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.6,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -2798,7 +3564,28 @@
                         "sets": 1
                     }
                 ],
-                "DB Incline Pec Flys": [],
+                "DB Incline Pec Flys": [
+                    {
+                        "weight": "40lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "40lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "35lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "35lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
                 "Medium-Grip Lat Pulldowns": [
                     {
                         "weight": "100lbs",
@@ -2868,13 +3655,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.5,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -2955,10 +3736,47 @@
                 ]
             },
             "Shoulders": {
-                "Cable Lateral Raises": []
+                "Cable Lateral Raises": [
+                    {
+                        "weight": "15lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "5lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ]
             },
             "Forearms": {
-                "DB Wrist Curls": [],
+                "DB Wrist Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
                 "Barbell Reverse Wrist Curls": [
                     {
                         "weight": "50lbs",
@@ -3019,13 +3837,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.6,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -3261,10 +4073,21 @@
                 ],
                 "Wide-Grip Chins": [],
                 "Parallel Bar Dips (weighted)": [],
+                "Superset:": [],
                 "Seated Cable Rows": [
                     {
                         "weight": "65lbs",
                         "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "65lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "50lbs per",
+                        "reps": 12,
                         "sets": 1
                     }
                 ],
@@ -3290,7 +4113,28 @@
                         "sets": 1
                     }
                 ],
-                "Cable Crossovers": []
+                "Cable Crossovers": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "20lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "20lbs per",
+                        "reps": 6,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "15lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
             },
             "Calves and Abdominals": {
                 "Machine Leg Press Calf Raises": [
@@ -3329,13 +4173,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.5,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -3357,8 +4195,51 @@
         "focus": "Short Arms and Shoulders, Cardio",
         "exercises": {
             "Upper Arms": {
-                "Cable Standing Kickbacks": [],
-                "Standing DB Curls": [],
+                "Superset:": [],
+                "Cable Standing Kickbacks": [
+                    {
+                        "weight": "20lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "20lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "15lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "15lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "Standing DB Curls": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
                 "Machine Preacher Curls": [
                     {
                         "weight": "80lbs",
@@ -3416,10 +4297,47 @@
                         "sets": 1
                     }
                 ],
-                "DB Lateral Raises": []
+                "DB Lateral Raises": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
             },
             "Forearms": {
-                "DB Wrist Curls": [],
+                "DB Wrist Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 15,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
                 "Barbell Reverse Wrist Curls": [
                     {
                         "weight": "50lbs",
@@ -3480,13 +4398,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.75,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -3784,13 +4696,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.75,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -3803,6 +4709,7 @@
         "focus": "Arms and Shoulders, Abdominals, Cardio",
         "exercises": {
             "Upper Arms": {
+                "Triset:": [],
                 "Standing Barbell Curls": [
                     {
                         "weight": "60lbs",
@@ -3869,12 +4776,32 @@
                         "sets": 1
                     }
                 ],
-                "One-Arm Cable Curls": [],
+                "Superset:": [],
+                "One-Arm Cable Curls": [
+                    {
+                        "weight": "20lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
                 "Cable Triceps Pressdowns": [],
-                "DB Concentration Curls": [],
-                "DB One-Arm Triceps Extensions": []
+                "DB Concentration Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB One-Arm Triceps Extensions": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
             },
             "Shoulders": {
+                "Superset:": [],
                 "Barbell Seated Presses (lean forward)": [
                     {
                         "weight": "45lbs",
@@ -3901,7 +4828,28 @@
                 "Cable Lateral Raises": []
             },
             "Forearms": {
-                "DB Wrist Curls": []
+                "DB Wrist Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ]
             },
             "Abdominals": {
                 "Machine Crunches": [
@@ -3921,13 +4869,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.35,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -4101,7 +5043,28 @@
                         "sets": 1
                     }
                 ],
-                "Machine One-Arm Rows": [],
+                "Machine One-Arm Rows": [
+                    {
+                        "weight": "135lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "150lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "135lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "105lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    }
+                ],
                 "Machine Pec Flys": [
                     {
                         "weight": "100lbs",
@@ -4173,10 +5136,21 @@
                         "sets": 1
                     }
                 ],
+                "Superset:": [],
                 "Seated Cable Rows": [
                     {
                         "weight": "65lbs",
                         "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "65lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "50lbs per",
+                        "reps": 12,
                         "sets": 1
                     }
                 ],
@@ -4226,13 +5200,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.6,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -4245,15 +5213,82 @@
         "focus": "Arms and Shoulders, Abdominals",
         "exercises": {
             "Upper Arms": {
-                "Lying DB Curls": [],
-                "Lying DB Skullcrushers": [],
-                "DB Preacher Curls": [],
+                "Superset:": [],
+                "Lying DB Curls": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Lying DB Skullcrushers": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "DB Preacher Curls": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "20lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
                 "Standing Cable Kickbacks": [],
                 "One-Arm Cable Rows": [],
-                "DB Concentration Curls": [],
-                "DB One-Arm Triceps Extensions": []
+                "DB Concentration Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB One-Arm Triceps Extensions": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
             },
             "Shoulders": {
+                "Superset:": [],
                 "Barbell Seated Presses (lean forward)": [
                     {
                         "weight": "45lbs",
@@ -4276,7 +5311,23 @@
                         "sets": 1
                     }
                 ],
-                "DB Lateral Raises": [],
+                "DB Lateral Raises": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
                 "Upright Rows": [
                     {
                         "weight": "70lbs",
@@ -4340,13 +5391,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.35,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -4522,7 +5567,33 @@
                         "sets": 1
                     }
                 ],
-                "DB Incline Presses": [],
+                "DB Incline Presses": [
+                    {
+                        "weight": "60lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "75lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "80lbs per",
+                        "reps": 5,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "70lbs per",
+                        "reps": 7,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "60lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
                 "Barbell Bent-Over Rows": [
                     {
                         "weight": "135lbs",
@@ -4550,7 +5621,28 @@
                         "sets": 1
                     }
                 ],
-                "DB Incline Flys": [],
+                "DB Incline Flys": [
+                    {
+                        "weight": "35lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "35lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "35lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "35lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
                 "Wide-Grip Lat Pulldowns": [
                     {
                         "weight": "70lbs",
@@ -4595,10 +5687,21 @@
                         "sets": 1
                     }
                 ],
+                "Superset: *": [],
                 "Seated Cable Rows": [
                     {
                         "weight": "65lbs",
                         "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "65lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "50lbs per",
+                        "reps": 12,
                         "sets": 1
                     }
                 ],
@@ -4626,13 +5729,7 @@
                 ]
             },
             "Calves and Abdominals": {
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.5,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -4718,7 +5815,23 @@
                         "sets": 1
                     }
                 ],
-                "DB Incline Flys": [],
+                "DB Incline Flys": [
+                    {
+                        "weight": "40lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "35lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "35lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
                 "Parallel Bar Dips": [],
                 "Machine Pullovers": [
                     {
@@ -4737,10 +5850,21 @@
                         "sets": 1
                     }
                 ],
+                "Superset: *": [],
                 "Seated Cable Rows": [
                     {
                         "weight": "65lbs",
                         "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "65lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "50lbs per",
+                        "reps": 12,
                         "sets": 1
                     }
                 ],
@@ -4790,13 +5914,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.5,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -4809,14 +5927,132 @@
         "focus": "Arms and Shoulders, Calves",
         "exercises": {
             "Upper Arms": {
-                "Seated DB Curls": [],
-                "Lying DB Triceps Extensions": [],
-                "DB Concentration Curls": [],
-                "DB One-Arm Triceps Extensions": []
+                "Superset:": [],
+                "Seated DB Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "Lying DB Triceps Extensions": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ],
+                "DB Concentration Curls": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 7,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "DB One-Arm Triceps Extensions": [
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "30lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
             },
             "Shoulders": {
-                "DB Arnold Presses": [],
-                "DB Lateral Raises": []
+                "Superset:": [],
+                "DB Arnold Presses": [
+                    {
+                        "weight": "45lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "45lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "45lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "45lbs per",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "DB Lateral Raises": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ]
             },
             "Calves": {
                 "Machine Leg Press Calf Raises": [
@@ -4841,13 +6077,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.6,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
@@ -5098,7 +6328,19 @@
                         "sets": 1
                     }
                 ],
-                "Seated Cable Rows": [],
+                "Superset:": [],
+                "Seated Cable Rows": [
+                    {
+                        "weight": "65lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "65lbs per",
+                        "reps": 15,
+                        "sets": 1
+                    }
+                ],
                 "DB Straight-Arm Pullovers": [
                     {
                         "weight": "55lbs",
@@ -5163,13 +6405,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill": [
-                    {
-                        "distance": 0.42,
-                        "unit": "miles",
-                        "pace": "6:58"
-                    }
-                ]
+                "Treadmill": []
             }
         }
     },
@@ -5182,6 +6418,7 @@
         "focus": "Arms and Shoulders, Forearms, Cardio",
         "exercises": {
             "Upper Arms": {
+                "Triset:": [],
                 "Standing Barbell Curls": [
                     {
                         "weight": "60lbs",
@@ -5253,7 +6490,24 @@
                         "sets": 1
                     }
                 ],
-                "One-Arm Cable Curls": [],
+                "Superset:": [],
+                "One-Arm Cable Curls": [
+                    {
+                        "weight": "20lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "20lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "20lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
                 "Cable Triceps Pressdowns": [
                     {
                         "weight": "65lbs",
@@ -5261,10 +6515,38 @@
                         "sets": 1
                     }
                 ],
-                "Cable Kickbacks": [],
-                "DB Preacher Curls": []
+                "Cable Kickbacks": [
+                    {
+                        "weight": "15lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    }
+                ],
+                "DB Preacher Curls": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "20lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
             },
             "Shoulders": {
+                "Superset:": [],
                 "Barbell Front Presses": [
                     {
                         "weight": "45lbs",
@@ -5287,8 +6569,40 @@
                         "sets": 1
                     }
                 ],
-                "DB Lateral Raises": [],
-                "Cable Lateral Raises": []
+                "DB Lateral Raises": [
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "25lbs per",
+                        "reps": 6,
+                        "sets": 1
+                    }
+                ],
+                "Cable Lateral Raises": [
+                    {
+                        "weight": "15lbs per",
+                        "reps": 8,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 12,
+                        "sets": 1
+                    },
+                    {
+                        "weight": "10lbs per",
+                        "reps": 10,
+                        "sets": 1
+                    }
+                ]
             },
             "Forearms": {
                 "Barbell Wrist Curls": [
@@ -5359,13 +6673,7 @@
                         "sets": 1
                     }
                 ],
-                "Treadmill (Cooldown)": [
-                    {
-                        "distance": 0.6,
-                        "unit": "miles",
-                        "pace": "7:30"
-                    }
-                ]
+                "Treadmill (Cooldown)": []
             }
         }
     },
